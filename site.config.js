@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `MAYBERoboLab`,
-      href: "https://www.shanghaitech.edu.cn/",
+      href: "https://sist.shanghaitech.edu.cn/baiwb/main.htm",
     },
   ],
   // blog setting (required)
